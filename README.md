@@ -12,7 +12,7 @@ This repository is part of Coursera course project assignment. It consists of tw
 
 Assignment Submission Files
 
-ui.R
-server.R
-README.md
+ui.R  
+server.R  
+README.md   
 API_Banting.cvs (Dataset used in this assigment)
