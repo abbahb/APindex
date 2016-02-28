@@ -5,7 +5,7 @@ This repository is part of Coursera course project assignment. It consists of tw
   https://abbah.shinyapps.io/APindex/
 
 2. Pitch Presentation
-  The pitch presentation can be accessed in Rpubs: http://rpubs.com/ngboonpin/Banting_AirPollutant
+  The pitch presentation can be accessed in Rpubs: http://rpubs.com/abbahb/APindex
 
 3. Codes submission at Github Repository
   All the codes can be downloaded from Github Repo: https://github.com/abbahb/APindex
